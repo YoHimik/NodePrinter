@@ -1,0 +1,6 @@
+% Key binding "welcome" not used in file!
+% Found key "hi" in file, but not found key binding!
+%
+Hello from node printer!
+This message " hello World! " was pasted by printer
+Above should be empty line, but it was skipped, because binding for "hi" not found

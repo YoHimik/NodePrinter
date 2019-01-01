@@ -1,0 +1,4 @@
+nodePrint sayHello
+This message " nodePrint hello " was pasted by printer
+nodePrint hi
+Above should be empty line, but it was skipped, because binding for "hi" not found
