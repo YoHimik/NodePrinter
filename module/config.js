@@ -1,10 +1,10 @@
 const config = {
-    printCommand: 'nodePrint',
+    printCommand: '%nodePrint',
     lineSeparator: '\r\n',
     inputEncoding: 'utf8',
     outputEncoding: 'utf8',
     commentSymbol: '%',
-    logTo: 'both' // 'none', 'console', 'outFile', 'both'
+    logTo: 'console' // 'none', 'console', 'outFile', 'both'
 }
 
 module.exports = config;
